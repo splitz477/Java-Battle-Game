@@ -3,7 +3,7 @@
 A turn-based Dragon Ball battle simulator built in Java centered on the Zamasu Saga arc.
 
 ## Features
-- Playable fighters:
+- Fighters:
   - Goku
   - Vegeta
   - Goku Black
